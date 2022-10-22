@@ -38,5 +38,5 @@ Publishing artifact to Nexus snapshot and release repo using maven.
 ## Maven Lifecycle Phases
 - https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html#a-build-lifecycle-is-made-up-of-phases
 
-# practice-mvn-sonar-nexus
+## practice-mvn-sonar-nexus
 java practice project to understand git, maven, sonar and nexus
