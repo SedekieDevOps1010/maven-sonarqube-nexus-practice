@@ -12,7 +12,7 @@
 Series of tutorial code snippets for use
 #Maven publish tutorial steps
 Publishing artifact to Nexus snapshot and release repo using maven.
-
+git
 1. Create a snapshot repo using nexus, or use default coming in out of the box. DEFAULT 
 2. Create a release repo using nexus, or use default coming out of the box. DEFAULT
 3. Create a group repo having both release, snapshot and other third party repos. or use default coming out of the box.
@@ -36,7 +36,4 @@ Publishing artifact to Nexus snapshot and release repo using maven.
 12. Run `mvn deploy` to deploy to Snapshot Repo or `mvn clean deploy -P release`, to deploy it to Release Repo
 
 ## Maven Lifecycle Phases
-- https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html#a-build-lifecycle-is-made-up-of-phases
-
-# practice-mvn-sonar-nexus
-java practice project to understand git, maven, sonar and nexus
+- https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html#a-build-lifecycle-is-made-up-of-phases 
