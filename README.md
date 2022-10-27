@@ -34,6 +34,11 @@ git
 
 11. Change the version from 1.0-Snapshot to 1.0
 12. Run `mvn deploy` to deploy to Snapshot Repo or `mvn clean deploy -P release`, to deploy it to Release Repo
+<<<<<<< HEAD
 
 ## Maven Lifecycle Phases
 - https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html#a-build-lifecycle-is-made-up-of-phases 
+=======
+## Maven Lifecycle Phases 
+- https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html#a-build-lifecycle-is-made-up-of-phases
+>>>>>>> a0456a1e3cbe1e3ddb8bea03de49a78f03115f61
