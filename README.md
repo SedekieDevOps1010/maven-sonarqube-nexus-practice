@@ -31,7 +31,6 @@ Publishing artifact to Nexus snapshot and release repo using maven.
    - `mvn install`    (install the package into the local repository, for use as a dependency in other projects locally.)
    - `mvn deploy`     (done in an integration or release environment, copies the final package to the remote/SNAPSHOT repository 
                       for sharing with other developers and projects.)
-
 11. Change the version from 1.0-Snapshot to 1.0
 12. Run `mvn deploy` to deploy to Snapshot Repo or `mvn clean deploy -P release`, to deploy it to Release Repo
 
